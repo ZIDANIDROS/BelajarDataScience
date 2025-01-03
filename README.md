@@ -1,3 +1,3 @@
 # BelajarDataScience
-Tahap Belajar
-ML
+- Tahap Belajar
+- ML
