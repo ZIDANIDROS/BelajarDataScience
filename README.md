@@ -4,3 +4,5 @@
 - Aljabar Linier
 - kalkulus
 - Probality
+<hr>
+Mau skripsi
