@@ -6,3 +6,4 @@
 - Probality
 <hr>
 Mau skripsi
+semoga
