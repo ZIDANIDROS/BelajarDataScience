@@ -6,4 +6,4 @@
 - Probality
 <hr>
 Mau skripsi
-semoga
+semoga sukses
