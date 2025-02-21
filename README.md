@@ -7,3 +7,4 @@
 <hr>
 Mau skripsi
 semoga sukses selalu
+amin
