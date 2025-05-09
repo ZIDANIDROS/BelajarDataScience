@@ -8,5 +8,3 @@
 Mau skripsi
 semoga sukses selalu
 amin
-ya robb
-
