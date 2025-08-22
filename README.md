@@ -3,4 +3,3 @@
 - Aljabar Linier
 - kalkulus
 - Probality
-- neural
